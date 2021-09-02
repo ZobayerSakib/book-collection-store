@@ -8,8 +8,20 @@
 .search-box{
     background-color: #0228240f;
     padding:15px;
-    width:800px;
+    width:700px;
     margin: auto;
     margin-top: 50px;
 
+}
+.columWidth{
+    width:70%;
+    margin: auto;
+}
+.background{
+    width:100%;
+    border-radius: 12px;
+    box-shadow: -2px 1px 3px black;
+}
+.commonColor{
+    color:rgba(17, 5, 5, 0.753)
 }
